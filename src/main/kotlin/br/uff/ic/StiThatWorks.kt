@@ -45,7 +45,9 @@ class StudentController {
         val uffFunds: Double = 0.0,
         val rioCardFunds: Double = 0.0
     )
-
+    @PUT
+    @POST
+    @DELETE
     @PATCH
     @Path("/:card-nfc-id")
     fun update(@Named("card-nfc-id") cardNfcId: String, @Body money: Money) {
@@ -53,6 +55,7 @@ class StudentController {
             uffFunds = money.uffFunds
         )
         studentArangoDBDataSource.update(cardNfcId,toBeUpdated)
+
     }
 
     @POST
