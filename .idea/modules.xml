@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sti-that-works.iml" filepath="$PROJECT_DIR$/.idea/modules/sti-that-works.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sti-that-works_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sti-that-works_main.iml" group="sti-that-works" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sti-that-works_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sti-that-works_test.iml" group="sti-that-works" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.litote.kmongo:kmongo-native-mapping:3.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.litote.kmongo/kmongo-native-mapping/3.5.0/18e8cb48189ec06078eb0a8329581c186fce89d8/kmongo-native-mapping-3.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.litote.kmongo/kmongo-native-mapping/3.5.0/3db7d073f2f903cef164eec95f249a8b9b1fdb4/kmongo-native-mapping-3.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

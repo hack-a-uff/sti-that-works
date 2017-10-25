@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.arangodb:velocypack:1.0.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arangodb/velocypack/1.0.10/228edc5f87289da1cf8c0340e0a084f5603d7f2f/velocypack-1.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arangodb/velocypack/1.0.10/796ab8d4f091c636d7f8a9641faa82ee385a43c0/velocypack-1.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
